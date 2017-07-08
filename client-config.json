@@ -1,6 +1,6 @@
 {
     "localaddr": ":443",
-    "remoteaddr": "10.10.10.10:4000",
+    "remoteaddr": "104.250.144.10:60602",
     "key": "kcptest",
     "crypt": "aes-192",
     "mode": "fast2",
