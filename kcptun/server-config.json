@@ -1,7 +1,7 @@
 {
-    "listen": ":4000",
+    "listen": ":60602",
     "target": "127.0.0.1:443",
-    "key": "kcptest",
+    "key": "22943238",
     "crypt": "aes-192",
     "mode": "fast2",
     "mtu": 1400,
